@@ -14,8 +14,5 @@ public class App {
         return "Hello World!";
     }
 
-    public static String hello(String param) {
-        return param;
-    }
 
 }
